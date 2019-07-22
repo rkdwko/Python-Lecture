@@ -1,35 +1,20 @@
 from pprint import pprint
-
 col, row = map(int, input().split())
 
 matrix = []
 for i in range(row):
     matrix.append(list(input()))
+pprint(matrix, indent=2)
 
 def countMines(i, k):
-    if padding[i+1][k+1] == '*'
-        return '*'
     if matrix[i][k] == '*':
         return '*'
-    if i == 0:
-        rs = 0
-    else:
-        rs = i - 1
-    if i == col - 1:
-        re = col - 1
-    else:
-        re = i + 1
-    if k == 0:
-        cs = 0
-    else:
-        cs = k - 1
-    if k == row - 1:
-        ce = k
-    else:
-        ce = k + 1
+
     count = 0
-    for r in range(rs, re + 1):
-        for c in range(cs, ce + 1):
+    for r in range(i-1, i+2):
+        for c in range(k-1, k+2):
+            if r < 0 or c < 0 or r >= row or c >= col:
+                continue
             if matrix[r][c] == '*':
                 count += 1
     return count
