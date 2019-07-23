@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c98b278-6aad-48c1-b357-68711ea1bc5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit23/judge_minesweeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit23/judge_minesweeper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제01.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제02.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제03.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제04.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제05.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제06.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제07.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제08.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제09.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/과제15(190717)/연습문제10.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제15(190717)/연습문제10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이웅희.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,91 +14,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제02.py">
+        <entry file="file://$PROJECT_DIR$/Unit31/judge_fibonacci_number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제03.py">
+        <entry file="file://$PROJECT_DIR$/Unit32/judge_lambda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제05.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제06.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제07.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제08.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제09.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제10.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="17">
+              <caret line="1" column="64" lean-forward="true" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/과제17(190719)/연습문제05.py">
+        <entry file="file://$PROJECT_DIR$/Unit33/judge_closure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state>
+              <caret column="8" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -121,11 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Unit13/judge_if.py" />
-        <option value="$PROJECT_DIR$/Unit15/judge_if_elif.py" />
-        <option value="$PROJECT_DIR$/Unit14/judge_if_else.py" />
-        <option value="$PROJECT_DIR$/Unit16/judge_for_range_multiplication_table.py" />
-        <option value="$PROJECT_DIR$/Unit17/judge_while.py" />
         <option value="$PROJECT_DIR$/Unit18/judge_exclude_number_ending_3.py" />
         <option value="$PROJECT_DIR$/Unit19/judge_star_mountain.py" />
         <option value="$PROJECT_DIR$/Unit20/judge_fizzbuzz_5_7.py" />
@@ -172,6 +94,11 @@
         <option value="$PROJECT_DIR$/과제15(190717)/연습문제08.py" />
         <option value="$PROJECT_DIR$/과제15(190717)/연습문제09.py" />
         <option value="$PROJECT_DIR$/과제15(190717)/연습문제10.py" />
+        <option value="$PROJECT_DIR$/Unit29/judge_function.py" />
+        <option value="$PROJECT_DIR$/Unit30/judge_function_argument.py" />
+        <option value="$PROJECT_DIR$/Unit31/judge_fibonacci_number.py" />
+        <option value="$PROJECT_DIR$/Unit32/judge_lambda.py" />
+        <option value="$PROJECT_DIR$/Unit33/judge_closure.py" />
       </list>
     </option>
   </component>
@@ -200,12 +127,12 @@
             <path>
               <item name="Python-Lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="과제15(190717)" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit32" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="과제17(190719)" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit33" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,9 +181,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="973" y="0" width="945" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2863436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2863436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -269,42 +195,24 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.557629" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.55872667" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Unit33/judge_closure.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit13/judge_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit14/judge_if_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit21/judge_polygon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit22/judge_list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise/p01_leap_year.py" />
     <entry file="file://$PROJECT_DIR$/Exercise/p02_alarm.py" />
     <entry file="file://$PROJECT_DIR$/Exercise/p03_2nd_big.py" />
     <entry file="file://$PROJECT_DIR$/Exercise/p04_pythagoras.py" />
@@ -592,14 +500,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제08.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
+        <state relative-caret-position="459">
           <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/과제15(190717)/연습문제09.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="289">
           <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
@@ -615,6 +523,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit29/judge_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit30/judge_function_argument.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit31/judge_fibonacci_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit32/judge_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="64" lean-forward="true" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit33/judge_closure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-end-line="1" />
         </state>
       </provider>
     </entry>
