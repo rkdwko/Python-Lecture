@@ -9,7 +9,7 @@
 #         ***
 #          *
 
-n = int(input('5이상 9이하의 홀수> '))
+n = int(input('5이상 9이하의 홀수'))
 height = (n + 1) // 2
 
 for i in range(1, height+1):
